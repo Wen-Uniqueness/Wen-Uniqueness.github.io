@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: CV
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -28,15 +28,12 @@ Work experience
 Skills
 ======
 * Math
-  * Mathematic analysis
-  * Algebraic geometry
-  * Algebraic number theory
+  * Algebraic geometry, Algebraic number theory, the repretation of group
+  * Algebraic topology, differentiabe manifold
   * Dynamic system
-
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* IT
+  * programing language: Python > C\# > Java
+  * Can use Unity to make simple game
 * Skill 3
 
 Publications

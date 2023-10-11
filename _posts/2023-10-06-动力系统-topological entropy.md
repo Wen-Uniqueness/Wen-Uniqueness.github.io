@@ -16,7 +16,8 @@ $\overline{P_n}(f)$ the total number of points for which the positive integer $n
 ## topological entropy
 我们先将目光放到 紧致度量空间$(X,d)$
 如何去度量一个拓扑系统的复杂度？
-从直观上来说，轨道之间的差别越是接近，那么它们往往拥有相似的性质。因此我们会试着建立拓扑熵
+从直观上来说，轨道之间的差别越是接近，那么它们往往拥有相似的性质。
+因此我们尝试建立拓扑熵的过程，正是在度量这个系统往微观前进时，轨道与轨道之间的差别的增长速度。如果这种速度可以被控制的话，我们也许就可以借此来了解这个动力系统的复杂度。
 首先，我们需要先建立一些度量来刻画每一条轨道之间的距离
 >**Def.**
 >$$ d^f_n(x,y) = \max_{1 \le i \le n-1} d(f^i(x),f^i(x))$$
@@ -97,3 +98,5 @@ $$D_d(f|_{\lambda_i}, \epsilon,n) \ge \frac{1}{m} D_d(f,\epsilon,n)$$
 Since $m$ is finite, there must be one $i$ works for infinite $n$, then
 $$\overline {\lim_{n \to \infty}}\frac{\log D_d(f|_{\Lambda_i}, \epsilon,n)}{n} \ge \overline {\lim_{n \to \infty}}\frac{\log D_d(f, \epsilon,n)- \log m}{n} = h_d(f,\epsilon)$$
 which prove (2) by (1).
+
+

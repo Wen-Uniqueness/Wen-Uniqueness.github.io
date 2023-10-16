@@ -12,7 +12,7 @@ tags:
 >Suppose $f$ has a periodic point of period $3$
 >Then $f$ has periodic point of all other periods.
 
-三即混沌
+## 三即混沌
 
 >**Lemma**
 >$J = [a,b]$ compact interval
@@ -55,8 +55,16 @@ $f^n(x_n) \in I_0$
 
 Thus, $x_n$ is what we need.
 
+## Sarkovski theorem
 
 actually, we can defind sarkovski order as below:
 $$3 > 5 > 7 > 9 > \cdots > 2\cdot3 > 2\cdot5>\cdots$$
 $$ >  2^2\cdot3> 2^2\cdot5 > \cdots >  2^m\cdot3> 2^m\cdot5 > \cdots$$
 $$> 2^m > \cdots > 2^2 > 2 > 1$$
+
+Then, we have a more generate theorem
+>**Thm.**
+>$f : \mathbb R \to \mathbb R$ continuous. Suppose $f$ has a periodic point of prime period $n$.
+>If $n \ge k$, then $f$ has point with periodic $k$.
+
+![](images/动力系统-f覆盖图.png)

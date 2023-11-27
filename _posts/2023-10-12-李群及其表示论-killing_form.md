@@ -1,4 +1,10 @@
-
+---
+title: 'killing_form'
+date: 2023-10-12
+tags:
+  - learning notes
+  - Lie algebra
+---
 $g$ a f.d. Lie algebra over $\mathbb C$
 The adjoint representation 
 $$

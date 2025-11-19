@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Shenzhen, South University of Science and Technology of China, 2021
+* B.S. in Shenzhen, South University of Science and Technology of China, 2021。09-2025.06
 
 Work experience
 ======

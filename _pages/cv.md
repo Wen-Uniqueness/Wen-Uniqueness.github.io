@@ -15,10 +15,15 @@ Education
 
 Work experience
 ======
-* 2021.9-2025.9: SUSTech 
-  * Undergraduate
-  * Math and applied mathematics
-  * Algebra Topology
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
 
   
 Skills

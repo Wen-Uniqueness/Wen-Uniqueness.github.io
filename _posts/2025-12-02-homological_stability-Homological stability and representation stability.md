@@ -6,9 +6,7 @@ tags:
   - lecture
 ---
 
-# Limit, stability and representation: From Limit of homology groups to Representation Stability
-
----
+[TOC]
 
 ### Homological stability
 

@@ -6,8 +6,6 @@ tags:
   - lecture
 ---
 
-[TOC]
-
 ### Homological stability
 
 Definition 1.3. 

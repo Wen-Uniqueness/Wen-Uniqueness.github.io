@@ -50,9 +50,12 @@ An $\text{FS}^{\text{op}}$-module $V$ is **finitely generated in degree ≤ $C$*
 2. For every  $n \in \mathbb{N}$, every element of $V_n$ can be expressed as a linear combination of pullbacks of the generators via surjections:
    
     $$
-    V_n = \text{span}\left\{ f^*(v_j) \mid 1 \leq j \leq k,\ f: [n] \to [d_j]\ \text{is a surjection} \right\}.
+    V_n = \text{span}\left\{ f_j^*(v_j) \mid 1 \leq j \leq k,\ f_j \in \hom_{FS}([n],[d_j]) \right\}.
     $$
     
+3. 
+
+​		Or, We say that an $\mathbf{FS}^{\mathrm{op}}$ module, $n \mapsto V_n$ is finitely generated in degree $\leq C$ if there is a finite list of classes ${v_i \in V_{d_i}}$ with $d_i \leq C$, such that every $V_n$ is spanned by classes of the form $f^* v_i$.
 
 Sam, S., & Snowden, A. (2017). Gröbner methods for representations of combinatorial categories. *Journal of the American Mathematical Society*, 30(1), 159–203.
 
